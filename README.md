@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Healthcare-Insurance-Expense</title>
 </head>
 <body>
 
-<h1>💉 Insurance Charges Prediction</h1>
+<h1> Insurance Charges Prediction</h1>
 
 <h2>📌 Project Overview</h2>
 <p>This project predicts <span class="highlight">medical insurance charges</span> for individuals using Machine Learning models.
