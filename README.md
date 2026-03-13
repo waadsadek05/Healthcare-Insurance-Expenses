@@ -38,13 +38,13 @@ Features include age, sex, BMI, number of children, smoking status, and geograph
 
 <h2>📊 Exploratory Data Analysis (EDA)</h2>
 <h3>1️⃣ Outlier Detection & Distribution</h3>
-<img src="plots/boxplots.png" alt="Boxplots for age, BMI, charges">
+<img src="plots/Box Plot to detect Outliers.png" alt="Boxplots for age, BMI, charges">
 
 <h3>2️⃣ Charges Histogram</h3>
-<img src="plots/charges_hist.png" alt="Charges distribution histogram">
+<img src="plots/Charges Histogram.png" alt="Charges distribution histogram">
 
 <h3>3️⃣ BMI vs Charges Scatter Plot</h3>
-<img src="plots/bmi_vs_charges.png" alt="BMI vs Charges colored by smoker">
+<img src="plots/BMI vs Charges (Colored by Smoker).png" alt="BMI vs Charges colored by smoker">
 
 <h2>🤖 Machine Learning Models</h2>
 
