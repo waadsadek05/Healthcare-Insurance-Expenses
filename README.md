@@ -3,49 +3,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title># Healthcare-Insurance-Expenses Insurance Charges Prediction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 0 20px;
-            color: #333;
-            background-color: #f9f9f9;
-        }
-        h1, h2, h3 {
-            color: #1a73e8;
-        }
-        code {
-            background-color: #eee;
-            padding: 2px 6px;
-            border-radius: 4px;
-            font-size: 0.95em;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-radius: 6px;
-            overflow-x: auto;
-        }
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin: 15px 0;
-        }
-        table, th, td {
-            border: 1px solid #ccc;
-        }
-        th, td {
-            padding: 8px;
-            text-align: left;
-        }
-        .highlight {
-            color: #d9534f;
-            font-weight: bold;
-        }
-    </style>
 </head>
 <body>
     <h1>Insurance Charges Prediction Project</h1>
