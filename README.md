@@ -3,37 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Insurance Charges Prediction</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            max-width: 900px;
-            margin: 20px auto;
-            padding: 0 20px;
-            color: #333;
-            background-color: #f9f9f9;
-        }
-        h1, h2, h3, h4 {
-            color: #1a73e8;
-        }
-        h1 { font-size: 2em; margin-bottom: 10px; }
-        h2 { font-size: 1.6em; margin-top: 30px; margin-bottom: 10px; }
-        h3 { font-size: 1.3em; margin-top: 20px; margin-bottom: 10px; }
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin-bottom: 20px;
-        }
-        table, th, td { border: 1px solid #aaa; }
-        th, td { padding: 8px; text-align: left; }
-        th { background-color: #f2f2f2; }
-        img { max-width: 100%; height: auto; display: block; margin: 15px 0; }
-        code { background-color: #f4f4f4; padding: 2px 5px; border-radius: 3px; }
-        pre { background-color: #f4f4f4; padding: 10px; overflow-x: auto; border-radius: 5px; }
-        .highlight { color: #d93025; font-weight: bold; }
-        blockquote { border-left: 4px solid #1a73e8; margin: 10px 0; padding-left: 10px; color: #555; }
-    </style>
+    <title>Healthcare-Insurance-Expense</title>
 </head>
 <body>
 
